@@ -155,6 +155,11 @@ nav#nav-bar ul li.nav-option::before, nav#nav-bar ul li input::before{
     margin: 0;
 }
 
+.link-text{
+    text-decoration:none;
+    color: #135969;
+}
+
 /*Body*/
 .body {
     height: 610px;
